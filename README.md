@@ -1,1 +1,1 @@
-# Apriori-Algorithm-From-Scratch
+# Apriori Algorithm From Scratch
